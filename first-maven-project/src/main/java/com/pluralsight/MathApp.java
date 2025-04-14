@@ -7,6 +7,7 @@ public class MathApp {
         int highestSalary = Math.max(bobSalary, garySalary);
         System.out.println("The answer is " + highestSalary);
 
+
         int carPrice = 10300;
         int truckPrice = 34000;
         int lowestPrice = Math.min(carPrice, truckPrice);
